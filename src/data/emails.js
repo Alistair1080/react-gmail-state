@@ -33,5 +33,5 @@ export default [
     title: `Updated invitation: Coding chat with Nico`,
     starred: true,
     read: false
-  }
+  },
 ]
